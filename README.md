@@ -1,5 +1,7 @@
 # nodemailer-sequelize-queue.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/nodemailer-sequelize-queue.svg)](https://greenkeeper.io/)
+
 # Nodemailer with a mail queue persisted in the database with Sequelize
 
 ## What's it for?
